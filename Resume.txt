@@ -1,0 +1,252 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letterpaper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\lastupdated % Print the Last Updated text at the top right
+
+\namesection{Abhishek}{Chauhan}{ % Your name
+
+\href{mailto:abhishekchauhan9036@gmail.com}{abhishekchauhan9036@gmail.com} | 9598628521 | Ballia, Uttar Pradesh, India % Your contact information
+}
+
+
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education} 
+\descript{Swami Vivekanand Subharti University}
+\descript{Bachelor of Computer Application}
+\location{ July 2022 \\ Percentage-67.67 }
+\sectionspace % Some whitespace after the section
+
+
+\descript{Ram Bhawan IC Satahawan Ballia}
+\descript{Intermediate}
+\location{ April 2019 \\ Percentage: 76.00 }
+\sectionspace % Some whitespace after the section
+
+
+
+\descript{N D H S S B Nagar Awarai Kala Ballia}
+\descript{High School}
+\location{ June 2017 \\ Percentage: 86.16 }
+\sectionspace % Some whitespace after the section
+
+
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+
+\section{Links} 
+
+linkedIn.com/in/ \href{https://www.linkedin.com/in/abhishek-chauhan-10b4991b8/}{\bf abhishekchauhan} \\
+
+github.com/ \href{https://github.com/AbhishekChauhan9036}{\bf abhishekchauhan9036} \\
+
+hackerrank.com/ \href{https://www.hackerrank.com/abhishekchauha22}{\bf abhishekchauha22} \\
+
+codechef.com/ \href{https://www.codechef.com/users/abhishekchauha}{\bf abhishekchauha} \\
+
+
+leetcode.com/ \href{https://leetcode.com/abhishekchauhan9036/}{\bf abhishekchauhan9036} \\
+
+geeksforgeeks.org/ \href{https://auth.geeksforgeeks.org/user/abhishekchauhan9036/}{\bf abhishekchauhan9036} \\
+
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Coursework
+%------------------------------------------------
+
+\section{Coursework}
+
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\subsection{Newton School Full-Stack Web Development}
+
+\textbullet{} Java Language \\
+\textbullet{} Object Oriented Programming \\
+\textbullet{} Data Structures and Algorithms  \\
+\textbullet{} Web Development \\
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+%------------------------------------------------
+% Research & Projects
+%------------------------------------------------
+\section{Skills}
+
+\subsection{Technical}
+
+\textbullet{} Data Structures \\
+\textbullet{} Algorithms \\
+\textbullet{} Java \\ 
+\textbullet{} C/C++ \\ 
+\textbullet{} JavaScript \\
+\textbullet{} HTML\\
+\textbullet{} CSS \\
+\textbullet{} Git \\
+\textbullet{} Github\\ 
+\location{Familiar:}
+React \textbullet{} Redux \textbullet{} Expres
+ \textbullet{} Node js
+ \textbullet{} MongoDB \\
+\location{OS Experience}
+Ubuntu \textbullet{} Kali Linux  \textbullet{} Windows
+\sectionspace % Some whitespace after the section
+
+\section{ Projects}
+
+\descript{Project 1 }
+\descript{Covid Fighter Game   Link-:   \href{https://covid-fig-hters-game.herokuapp.com/}{\bf Live} \href{https://github.com/AbhishekChauhan9036/Covid-Fighter-Game}{\bf Github} }
+
+\descript{Based ON HTML, CSS, JS, CANVAS }
+
+\textbullet{} Help Hero dodge \\
+\textbullet{} corona viruses and aquire diamond.\\
+\textbullet{} Canvas API for UI design.\\
+\textbullet{} Maths logics to make player and enemy move with variant speed.\\
+
+\sectionspace % Some whitespace after the section
+\descript{Project 2 }
+\descript{Sudoku Solver Practice Project  Link-: \href{https://sudoku-solver-practice-project.herokuapp.com/}{\bf Live} \href{https://github.com/AbhishekChauhan9036/Sudoku-Solver-Practice-Project}{\bf Github} }
+
+\descript{Based ON JavaScript and Bootstrap in logic part using Backtracking }
+
+\textbullet{} In this Sudoku Web Application we implemented Backtracking.
+ \\
+\textbullet{} To build this game we used the JavaScript and Bootstrap.\\
+
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+
+%------------------------------------------------
+
+
+%------------------------------------------------
+% Awards
+%------------------------------------------------
+
+\section{Achievement} 
+
+\begin{tabular}{rll}
+  \textbullet{}  & 500+ Problem Soved at competitive platform\\
+  \textbullet{}  & 2 star coder at codechef \\
+  
+  \textbullet{} & 6 start Badge in Problem Solving at HackerRank \\
+  
+  \textbullet{} & 5 start Badge in Java and C/C++ at HackerRank \\
+  
+  \textbullet{} & Newton School December Public Contest My Rank: 1683 out of 16900+ Coders  \\
+  
+\textbullet{} & Newton School January Public Contest My Rank: 908 out of 17500+ Coders  \\
+
+\textbullet{} & Newton School Grand Coding Contest My Rank: 3804 out of 110600+ Coders  \\
+  
+
+
+\end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Societies
+%------------------------------------------------
+
+% \section{Interests} 
+
+% \begin{tabular}{rll}
+% Chess & 1450 Elo & Learned January 2015 and aspire to be a titled player. \\
+%  & twitch & Accepted into 'Chess.com Streamers Challenge' (September 2015)\\
+% Running & college & NCAA Division 1 Cross Country Minuteman (2014) \\
+%  & individual & Hartford ING Marathon Division Winner (2013).
+% \end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%\section{Example Section}
+
+%\end{minipage} % The end of the left column
+%\hfill
+%\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%\section{Example Section 2}
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
